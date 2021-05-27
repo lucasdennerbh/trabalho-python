@@ -1,0 +1,20 @@
+1. Você está participando de um processo seletivo para a vaga de desenvolvedor Python, e sua prova
+consiste em:
+(a) Criar um pequeno sistema em Python que lhe ajude a controlar os livros que você possui e
+quais deles já leu.
+(B) Como usuário eu desejo:
+i. Cadastrar meus livros, registrando o Título, autor principal, editora, ano de publicação,
+ano de aquisição, se foi lido e quando foi lido.
+
+Ii. Listar todos os livros em ordem alfabética.
+Iii.
+Buscar livros pelo título.
+Iv. Buscar livros pelo autor.
+
+v. Listar todos os livros não lidos.
+(C) As informações deve preferencialmente ser armazenadas em um banco de dados sqlite
+(d) Utilize os princípios da programação orientada a objetos!
+(e) Aplique os conceitos de normalização do banco de dados.
+• Como será avaliado:
+– Cumprimento dos requisitos (modelagem)
+– Correto funcionamento da aplicação.
